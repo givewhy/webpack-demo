@@ -1,0 +1,20 @@
+{
+  "name": "webpack-demos",
+  "version": "1.0.0",
+  "description": "a collection of simple demos of Webpack",
+  "main": "index.js",
+  "keywords": [
+    "build",
+    "demo",
+    "webpack"
+  ],
+  "author": "Ruan Yifeng",
+  "license": "MIT",
+  "repository": "ruanyf/webpack-demos",
+  "devDependencies": {
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.4",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "dependencies": {}
+}

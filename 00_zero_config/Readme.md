@@ -1,0 +1,1 @@
+入口点是webpack寻找开始构建Javascript包的文件,在之前的webpack版本中，入口点必须在名为webpack.config.js的配置文件中定义,但是从webpack 4开始，不需要定义入口点：它会将./src/index.js作为默认值！而且，它会在./dist/main.js中输出这个包。

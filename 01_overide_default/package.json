@@ -1,0 +1,12 @@
+{
+  "name": "webpack-demo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "../node_modules/.bin/webpack-dev-server --open",
+    "build": "../node_modules/.bin/webpack"
+  },
+  "author": "",
+  "license": "ISC"
+}

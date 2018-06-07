@@ -1,0 +1,12 @@
+{
+  "name": "webpack-demo3",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "../node_modules/.bin/webpack-dev-server --open",
+    "build": "../node_modules/.bin/webpack"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-loader": "^7.1.4"
+  }
+}
